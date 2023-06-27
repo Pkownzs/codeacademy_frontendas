@@ -1,0 +1,74 @@
+h1 {
+    background-color: burlywood;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+header {
+    background-color: pink;
+    display: flex;
+    align-content: left;
+    justify-content: center;
+}
+
+footer {
+    background-color: red;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+div {
+    background-color: blueviolet;
+    border: 5px solid black;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+html, body {
+    margin:  0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    display: grid;
+    align-content: space-between;
+}
+
+body > header {
+    height: 75px;
+}
+
+body > header > * {
+    float: left;
+}
+
+main {
+    display: flex;
+    background-color: yellow;
+}
+
+aside {
+    display: grid;
+}
+
+nav {
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+    background-color: burlywood;
+}
+
+body{
+    background-color: black;
+}
+*{
+margin:0;
+padding:0;
+}

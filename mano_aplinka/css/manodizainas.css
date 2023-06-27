@@ -1,0 +1,22 @@
+a {
+    text-decoration: none; color: inherit
+}
+
+.photo_galery1 img{
+    border: 5px solid black;
+}
+.photo_galery2 img{
+    border: 5px solid black;
+}
+.photo_galery3 img{
+    border: 5px solid black;
+}
+
+/* body {
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1770453485893246977/FA4026EBB255ACE569504E4EB81645214FDF1CE7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false");
+    background-size: cover;
+} */
+
+p {
+    background-color: aliceblue;
+}
